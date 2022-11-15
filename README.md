@@ -1,4 +1,4 @@
-![banner_github](https://user-images.githubusercontent.com/118120112/202024743-9e43121f-dc37-4ae1-8549-b9f2087084af.png)
+![github_banner_compacto](https://user-images.githubusercontent.com/118120112/202036161-e263a225-9024-4f13-9a58-5ac2faf8715c.png)
 
 <h3 align="center"> Hello there, I'm Ana! <br> Welcome to my Github Page👋 </h3>
 
