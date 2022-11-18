@@ -13,3 +13,12 @@
 </a>
 </p>
 -->
+
+Here you can find some of the fundamental projects I've developed, namely the LAPR projects.<br>
+In each semester of my bachelor in Informatics Engineering, I had to develop, integrated in a team, a LAPR project, whose goal was to encompass all the knowledge obtained from all courses of that semester into a single project.
+
+<!---
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </p>
+-->
