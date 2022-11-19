@@ -2,9 +2,17 @@
 
 <h3 align="center"> Hello there, I'm Ana! <br> Welcome to my Github Page👋 </h3>
 
+<!---
 <p align="center">
 <a href="https://linkedin.com/in/ana-c-albergaria" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ana-c-albergaria" height="30" width="40" /></a>
 </p>
+-->
+
+<p align="center">
+  <a href="https://linkedin.com/in/ana-c-albergaria">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+ </p>
 
 <!---
 <p align="center">
@@ -14,8 +22,9 @@
 </p>
 -->
 
-Here you can find some of the fundamental projects I've developed, namely the LAPR projects.<br>
-In each semester of my bachelor in Informatics Engineering, I had to develop, integrated in a team, a LAPR project, whose goal was to encompass all the knowledge obtained from all courses of that semester into a single project.
+---
+:arrow_right:  Here you can find some of the fundamental projects I've developed, namely the **LAPR projects**:<br>
+&nbsp; &nbsp; &nbsp; In each semester of my bachelor in Informatics Engineering, I had to develop, integrated in a team, a LAPR project, whose goal was to <p align="center"> **encompass all the knowledge obtained from all courses of that semester into a single project.** </p>
 
 <!---
 <h3 align="left">Languages and Tools:</h3>
