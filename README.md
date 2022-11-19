@@ -24,7 +24,7 @@
 
 ---
 :arrow_right:  Here you can find some of the fundamental projects I've developed, namely the **LAPR projects**:<br>
-&nbsp; &nbsp; &nbsp; In each semester of my bachelor in Informatics Engineering, I had to develop, integrated in a team, a LAPR project, whose goal was to <p align="center"> **encompass all the knowledge obtained from all courses of that semester into a single project.** </p>
+&nbsp; &nbsp; &nbsp; In each semester of my bachelor in Informatics Engineering, I had to develop, integrated in a team, a LAPR project, whose goal was to **encompass all the knowledge obtained from all courses of that semester into a single project.** </p>
 
 <!---
 <h3 align="left">Languages and Tools:</h3>
